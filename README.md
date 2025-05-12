@@ -4,7 +4,7 @@
 
 ![Preview](https://i.postimg.cc/DZfMWzBx/2025-05-12-113321.png)
 
-Ссылка [тут](http://localhost:3000){:target="_blank"}
+Ссылка [тут](https://react-timeline-slider.vercel.app/)
 
 ## Технологии
 
